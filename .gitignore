@@ -10,6 +10,8 @@
 /vc14/x64/freetype
 /vc14/x86/glm
 /vc14/x64/glm
+/vc14/x86/glslang
+/vc14/x64/glslang
 /vc14/x86/libzip
 /vc14/x64/libzip
 /vc14/x86/opencv
